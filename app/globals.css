@@ -128,6 +128,11 @@ a {
   color: var(--gold);
 }
 
+.app-card-icon--green {
+  background: rgba(34, 197, 94, 0.18);
+  color: #4ade80;
+}
+
 .app-card-icon--violet {
   background: rgba(139, 92, 246, 0.2);
   color: #a78bfa;
@@ -175,6 +180,7 @@ a {
 
 .app-card--blue:hover .app-card-link { color: #93c5fd; }
 .app-card--gold:hover .app-card-link { color: #fde68a; }
+.app-card--green:hover .app-card-link { color: #86efac; }
 .app-card--violet:hover .app-card-link { color: #c4b5fd; }
 .app-card--red:hover .app-card-link { color: #fca5a5; }
 
