@@ -1,0 +1,9 @@
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: { unoptimized: true },
+  async redirects() {
+    return [{ source: '/favicon.ico', destination: '/favicon.png', permanent: false }];
+  },
+};
+
+module.exports = nextConfig;
