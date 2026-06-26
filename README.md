@@ -10,8 +10,8 @@ Hub central des outils **Boxing Center** — liens vers les consoles et sites.
 |-------|-----|
 | Gestion Manager | https://gestion-manager.vercel.app |
 | Fiches IK | https://gestion-fiche-ik.vercel.app |
-| InfoBox | https://infobox-boxing-center.vercel.app |
-| Boxing Portet | https://boxing-center-portet.fr |
+| Compta Boxing | https://compta-boxing.vercel.app |
+| Clients | https://gestion-manager.vercel.app/admin/clients |
 
 Modifier les liens dans [`lib/apps.js`](lib/apps.js).
 
