@@ -17,6 +17,8 @@ Hub central des outils **Boxing Center** — liens vers les consoles et sites.
 | Clients | https://manager-com.boxingcenter.fr/admin/clients |
 | Boutique | https://boutique.boxingcenter.fr |
 | Boutique admin | https://boutique.boxingcenter.fr/admin |
+| Séance offerte | https://seance-offerte.boxingcenter.fr/ |
+| Séance offerte — visites | https://boutique.boxingcenter.fr/admin#fluxWrap |
 
 Modifier les liens dans [`lib/apps.js`](lib/apps.js).
 
