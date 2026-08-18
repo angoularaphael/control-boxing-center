@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/schema.json",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "control-boxing-center.vercel.app" }],
+      "destination": "https://control.boxingcenter.fr/$1",
+      "permanent": true
+    }
+  ]
+}

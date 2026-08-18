@@ -4,7 +4,10 @@ export const metadata = {
   title: 'Control Center — Boxing Center',
   description: 'Hub de gestion des outils Boxing Center',
   icons: {
-    icon: [{ url: '/favicon.png', sizes: '32x32', type: 'image/png' }],
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.png', sizes: '32x32', type: 'image/png' },
+    ],
   },
 };
 

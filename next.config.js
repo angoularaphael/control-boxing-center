@@ -2,7 +2,15 @@
 const nextConfig = {
   images: { unoptimized: true },
   async redirects() {
-    return [{ source: '/favicon.ico', destination: '/favicon.png', permanent: false }];
+    return [
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'control-boxing-center.vercel.app' }],
+        destination: 'https://control.boxingcenter.fr/:path*',
+        permanent: true,
+      },
+      { source: '/favicon.ico', destination: '/favicon.svg', permanent: false },
+    ];
   },
 };
 
