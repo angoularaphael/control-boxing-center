@@ -9,7 +9,6 @@ const nextConfig = {
         destination: 'https://control.boxingcenter.fr/:path*',
         permanent: true,
       },
-      { source: '/favicon.ico', destination: '/favicon.svg', permanent: false },
     ];
   },
 };
