@@ -11,10 +11,10 @@ Hub central des outils **Boxing Center** — liens vers les consoles et sites.
 
 | Carte | URL |
 |-------|-----|
-| Gestion Manager | https://manager.boxingcenter.fr |
-| Fiches IK | https://fiches.boxingcenter.fr |
+| Gestion Manager | https://manager-com.boxingcenter.fr/ |
+| Fiches IK | https://fiche-ik.boxingcenter.fr/ |
 | Compta Boxing | https://compta.boxingcenter.fr |
-| Clients | https://manager.boxingcenter.fr/admin/clients |
+| Clients | https://manager-com.boxingcenter.fr/admin/clients |
 | Boutique | https://boutique.boxingcenter.fr |
 | Boutique admin | https://boutique.boxingcenter.fr/admin |
 
